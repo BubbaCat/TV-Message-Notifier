@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TV-Message-Notifier/static/css/main.5a320505.css",
-    "main.js": "/TV-Message-Notifier/static/js/main.61ef7437.js",
+    "main.js": "/TV-Message-Notifier/static/js/main.8cee0b18.js",
     "static/js/787.ee0884d9.chunk.js": "/TV-Message-Notifier/static/js/787.ee0884d9.chunk.js",
     "index.html": "/TV-Message-Notifier/index.html",
     "main.5a320505.css.map": "/TV-Message-Notifier/static/css/main.5a320505.css.map",
-    "main.61ef7437.js.map": "/TV-Message-Notifier/static/js/main.61ef7437.js.map",
+    "main.8cee0b18.js.map": "/TV-Message-Notifier/static/js/main.8cee0b18.js.map",
     "787.ee0884d9.chunk.js.map": "/TV-Message-Notifier/static/js/787.ee0884d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a320505.css",
-    "static/js/main.61ef7437.js"
+    "static/js/main.8cee0b18.js"
   ]
 }
