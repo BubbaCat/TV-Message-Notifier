@@ -14,7 +14,7 @@ interface MessageDTO {
 const startMessage = {
     id: 0,
     image: '',
-    message: 'Привет, CreativeCreativeCreativeCreativeCreativeCreative!',
+    message: 'Привет, Creative!',
     name: 'Легендарный бот',
 }
 
